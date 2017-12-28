@@ -2,7 +2,7 @@
     "lhost": "127.0.0.1",
     "lport": 7777,
     "domain": "digxmr.com",
-    "pool": "stratum+tcp://uspool.electroneum.com:3333",
+    "pool": "uspool.electroneum.com:3333",
     "addr": "etnjyAGyJyYE3Kmh9TZi6NRrEAEP6V87AC2ZvcBejRj9PKYRbSQNEu77mRjB5iJ5mPNE6sa6pQ9KGXytMv9AfN1T2HEmYMCxme",
     "pass": "x",
 	"key": "",
