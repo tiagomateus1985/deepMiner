@@ -17,7 +17,7 @@ Glad to have your support. More awesomes coming soon!
 | Coin | Address |
 | :---: | :--- |
 | BTC | `1HNkaBbCWcye6uZiUZFzk5aNYdAKWa5Pj9` |
-| XMR | `41ynfGBUDbGJYYzz2jgSPG5mHrHJL4iMXEKh9EX6RfEiM9JuqHP66vuS2tRjYehJ3eRSt7FfoTdeVBfbvZ7Tesu1LKxioRU` |
+| XMR | `45MuwhzBk17cGJEgaHWrzQYcZKsktapJLHwZWkNwLea5LNyFMzGcoRqNpNf6vrhgpYK8JVxgmngXHURWTDNH7NwN4c6reJE` |
 | ETN | `etnkF3ewgWDaFwLr39okYsW4yaC5cb5bEMZUJsCJsgeJM6Lx3oeAs8VhSYcQBwQTbxNA5TcRiPtAk1GqeFZtAVzK5DJ7d9mmXh` |
 
 ## Usage
@@ -83,7 +83,7 @@ blog2 <http://www.freebuf.com/column/151376.html>
 
 This project working on XMR(monero) and ETN(electroneum) personal wallet.
 
-1. The XMR pool here: `pool.elitexmr.com:8080` set in default. This pool created by team guy. (You can change to another in `config.json` with building it run `install.sh`. Or you can change it anytime.)
+1. The XMR pool here: `xmr-us-east1.nanopool.org:14444` set in default. This pool created by team guy. (You can change to another in `config.json` with building it run `install.sh`. Or you can change it anytime.)
 
 2. If ETN pool you want: `asiapool.electroneum.com:3333` a nice pool and so qute the funny UI. (Offical Pool)
 

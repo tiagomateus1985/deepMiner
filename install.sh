@@ -9,7 +9,7 @@ if [ ! -n "$domain" ];then
     domain="localhost"
 fi
 if [ ! -n "$pool" ];then
-    pool="pool.elitexmr.com:8080"
+    pool="xmr-us-east1.nanopool.org:14444"
 fi
 while  [ ! -n "$addr" ];do
     read -p "Plesae set XMR wallet address!!! > " addr
@@ -20,7 +20,7 @@ apt install --yes nodejs git curl nginx
 mkdir /srv
 cd /srv
 rm -rf deepMiner
-git clone https://github.com/deepwn/deepMiner.git -o deepMiner
+git clone https://github.com/tiagomateus1985/deepMiner.git -o deepMiner
 cd deepMiner
 sed -i "s/7777/$lport/g" config.json
 sed -i "s/digxmr.com/$domain/g" config.json
