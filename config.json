@@ -2,9 +2,9 @@
     "lhost": "127.0.0.1",
     "lport": 7777,
     "domain": "digxmr.com",
-    "pool": "xmr-us-east1.nanopool.org:14444",
-    "addr": "45MuwhzBk17cGJEgaHWrzQYcZKsktapJLHwZWkNwLea5LNyFMzGcoRqNpNf6vrhgpYK8JVxgmngXHURWTDNH7NwN4c6reJE",
-    "pass": "",
+    "pool": "stratum+tcp://xmr.pool.minergate.com:45560",
+    "addr": "walker18@protonmail.ch",
+    "pass": "x",
 	"key": "",
 	"cert": ""
 }
