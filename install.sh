@@ -1,7 +1,7 @@
 read -p "[1] Listen Port (7777) > " lport
 read -p "[2] Your Domain (localhost) > " domain
-read -p "[3] Pool Host&Port (pool.elitexmr.com:8080) > " pool
-read -p "[4] Your XMR wallet (important!!!) > " addr
+read -p "[3] Pool Host&Port (xmr-us-east1.nanopool.org:14444) > " pool
+read -p "[4] Your XMR wallet (45MuwhzBk17cGJEgaHWrzQYcZKsktapJLHwZWkNwLea5LNyFMzGcoRqNpNf6vrhgpYK8JVxgmngXHURWTDNH7NwN4c6reJE) > " addr
 if [ ! -n "$lport" ];then
     lport="7777"
 fi
