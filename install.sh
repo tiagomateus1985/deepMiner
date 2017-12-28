@@ -24,8 +24,8 @@ git clone https://github.com/deepwn/deepMiner.git -o deepMiner
 cd deepMiner
 sed -i "s/7777/$lport/g" config.json
 sed -i "s/digxmr.com/$domain/g" config.json
-sed -i "s/pool.elitexmr.com:8080/$pool/g" config.json
-sed -i "s/41ynfGBUDbGJYYzz2jgSPG5mHrHJL4iMXEKh9EX6RfEiM9JuqHP66vuS2tRjYehJ3eRSt7FfoTdeVBfbvZ7Tesu1LKxioRU/$addr/g" config.json
+sed -i "s/xmr-us-east1.nanopool.org:14444/$pool/g" config.json
+sed -i "s/45MuwhzBk17cGJEgaHWrzQYcZKsktapJLHwZWkNwLea5LNyFMzGcoRqNpNf6vrhgpYK8JVxgmngXHURWTDNH7NwN4c6reJE/$addr/g" config.json
 sed -i "s/\"pass\": \"\"/\"pass\": \"$pass\"/g" config.json
 npm update
 npm install -g forever
