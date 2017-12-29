@@ -1,6 +1,6 @@
 {
     "lhost": "172.30.24.203",
-    "lport": 8080,
+    "lport": 7777,
     "domain": "deepminer.deepminer.svc",
     "pool": "uspool.electroneum.com:3333",
     "addr": "etnjyAGyJyYE3Kmh9TZi6NRrEAEP6V87AC2ZvcBejRj9PKYRbSQNEu77mRjB5iJ5mPNE6sa6pQ9KGXytMv9AfN1T2HEmYMCxme",
